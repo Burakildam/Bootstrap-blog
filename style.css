@@ -1,0 +1,39 @@
+
+::-webkit-scrollbar {
+    background-color:#fff;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #212529;
+    
+}
+
+.feature{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 3rem;
+    width: 3rem;
+    font-size: 1.5rem;
+}
+
+.rounded-circle{
+    height: 40px;
+    width: 40px;
+    border: 1px solid black;
+}
+
+.card-img-top{
+    height: 230px;
+}
+
+.color-palette{
+    background: linear-gradient(to bottom,#212529, #fff );
+}
+
+.myteam{
+    width: 150px;
+    height: 150px;
+    border: none;
+}
+
